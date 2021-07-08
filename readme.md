@@ -31,7 +31,7 @@ Any three digit
 ![](./screen-caps/05ShippingScreen.jpeg)
 ![](./screen-caps/06OrderConfirmationScreen.jpeg)
 ![](./screen-caps/07PaymentDetailsScreen.jpeg)
-![](./screen-caps/stripe.jpeg)
+
 ![](./screen-caps/08SuccessfulOrder.jpeg)
 ![](./screen-caps/09OrderDashboard.jpeg)
 ![](./screen-caps/10OrderDetailsPage.jpeg)
@@ -46,7 +46,7 @@ Any three digit
 ![](./screen-caps/19AddProductPage.jpeg)
 ![](./screen-caps/20UpdateProductPage.jpeg)
 ![](./screen-caps/21Search&Filter.jpeg)
-
+![](./screen-caps/stripe.jpeg)
 ## Usage
 
 - Create a .env file inside backend/config.
