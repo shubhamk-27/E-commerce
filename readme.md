@@ -1,7 +1,3 @@
-
-
-### Auth Routes
-
 Admin Login
 
 ```
