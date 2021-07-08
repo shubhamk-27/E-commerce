@@ -7,7 +7,7 @@ Admin Login
 }
 ```
 
-Non-admin login
+User Login
 
 ```
 {
@@ -16,7 +16,7 @@ Non-admin login
 }
 ```
 
-(Stripe) Card Payment Details [For USD]
+(Stripe) Card Payment Details 
 
 ```
 4000 0027 6000 3184
@@ -31,7 +31,6 @@ Any three digit
 ![](./screen-caps/05ShippingScreen.jpeg)
 ![](./screen-caps/06OrderConfirmationScreen.jpeg)
 ![](./screen-caps/07PaymentDetailsScreen.jpeg)
-
 ![](./screen-caps/08SuccessfulOrder.jpeg)
 ![](./screen-caps/09OrderDashboard.jpeg)
 ![](./screen-caps/10OrderDetailsPage.jpeg)
