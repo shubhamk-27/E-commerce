@@ -1,3 +1,6 @@
+
+
+![](./screen-caps/01Homepage.jpeg)
 Admin Login
 
 ```
@@ -23,8 +26,6 @@ User Login
 Any future Date
 Any three digit
 ```
-
-![](./screen-caps/01Homepage.jpeg)
 ![](./screen-caps/02RegistrationPage.jpeg)
 ![](./screen-caps/03LoginPage.jpeg)
 ![](./screen-caps/04CartPage.jpeg)
